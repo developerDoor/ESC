@@ -13,8 +13,8 @@ class CustomNav extends HTMLElement {
                 <li class="has-children">
                   <a href="/blog.html" style="font-size: 20px;">Archive</a>
                   <ul class="dropdown">
-                    <li><a href="single.html" style="font-size: 20px;">Project 1</a></li>
-                    <li><a href="single.html" style="font-size: 20px;">Project 2</a></li>
+                    <li><a href="project1.html" style="font-size: 20px;">Project 1</a></li>
+                    <li><a href="project2.html" style="font-size: 20px;">Project 2</a></li>
                   </ul>
                 </li>
                 <li><a href="about.html" style="font-size: 20px;">About</a></li>

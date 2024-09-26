@@ -9,16 +9,16 @@ class CustomNav extends HTMLElement {
               </a>
 
               <ul class="js-clone-nav d-none d-lg-inline-noone text-left site-menu">
-                <li class="active"><a href="index.html">Home</a></li>
+                <li><a href="index.html" style="font-size: 20px;">Home</a></li>
                 <li class="has-children">
-                  <a href="/blog.html">Archive</a>
+                  <a href="/blog.html" style="font-size: 20px;">Archive</a>
                   <ul class="dropdown">
-                    <li><a href="single.html">Project 1</a></li>
-                    <li><a href="single.html">Project 2</a></li>
+                    <li><a href="single.html" style="font-size: 20px;">Project 1</a></li>
+                    <li><a href="single.html" style="font-size: 20px;">Project 2</a></li>
                   </ul>
                 </li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="about.html" style="font-size: 20px;">About</a></li>
+                <li><a href="contact.html" style="font-size: 20px;">Contact Us</a></li>
               </ul>
 
               <a

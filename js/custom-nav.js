@@ -11,7 +11,7 @@ class CustomNav extends HTMLElement {
               <ul class="js-clone-nav d-none d-lg-inline-noone text-left site-menu">
                 <li><a href="index.html" style="font-size: 20px;">Home</a></li>
                 <li class="has-children">
-                  <a href="/blog.html" style="font-size: 20px;">Archive</a>
+                  <a href="/archive.html" style="font-size: 20px;">Archive</a>
                   <ul class="dropdown">
                     <li><a href="project1.html" style="font-size: 20px;">Project 1</a></li>
                     <li><a href="project2.html" style="font-size: 20px;">Project 2</a></li>

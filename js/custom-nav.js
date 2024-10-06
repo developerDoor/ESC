@@ -15,6 +15,7 @@ class CustomNav extends HTMLElement {
                   <ul class="dropdown">
                     <li><a href="project1.html" style="font-size: 20px;">Project 1</a></li>
                     <li><a href="project2.html" style="font-size: 20px;">Project 2</a></li>
+                    <li><a href="project3.html" style="font-size: 20px;">Project 3</a></li>
                   </ul>
                 </li>
                 <li><a href="about.html" style="font-size: 20px;">About</a></li>

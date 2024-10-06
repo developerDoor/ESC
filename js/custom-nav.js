@@ -19,7 +19,7 @@ class CustomNav extends HTMLElement {
                   </ul>
                 </li>
                 <li><a href="about.html" style="font-size: 20px;">About</a></li>
-                <li><a href="contact.html" style="font-size: 20px;">Contact Us</a></li>
+                <li><a href="contact.html" style="font-size: 20px;">Contact</a></li>
               </ul>
 
               <a
